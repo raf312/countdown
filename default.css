@@ -1,4 +1,8 @@
-div.container{
+body {
+  padding: 10px;
+}
+
+div.container {
   font-size: 22px;
   font-family: monospace;
   color: white;
@@ -6,8 +10,7 @@ div.container{
 
 p {
   display: inline-block;
-  padding: .25em .4em;
-  font-weight: 700;
+  padding: .18em .4em;
   line-height: 1;
   text-align: center;
   white-space: nowrap;
